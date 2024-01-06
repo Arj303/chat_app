@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252150545405",
+    "project_id": "chatroom-2ec8d",
+    "storage_bucket": "chatroom-2ec8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252150545405:android:4742463045536b6038f794",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYqAWMCe9PZzC4gxrEGqwHwq8wpvjkxCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252150545405:android:7c3aea956a99167738f794",
+        "android_client_info": {
+          "package_name": "com.example.chatroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYqAWMCe9PZzC4gxrEGqwHwq8wpvjkxCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
